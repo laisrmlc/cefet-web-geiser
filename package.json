@@ -1,0 +1,24 @@
+{
+  "name": "cefet-web-geiser",
+  "version": "1.0.0",
+  "description": "geiser",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisrmlc/cefet-web-geiser.git"
+  },
+  "author": "Laśi Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laisrmlc/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/laisrmlc/cefet-web-geiser#readme"
+}
